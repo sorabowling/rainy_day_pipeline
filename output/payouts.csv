@@ -1,0 +1,13 @@
+promise_id,station_id,start_date,end_date,rain_threshold_mm,rainy_days,unknown_days,pays_out,further_investigation
+P001,ST_BERLIN,2026-06-03,2026-06-09,5.0,2,0,True,False
+P002,ST_BERLIN,2026-06-15,2026-06-18,5.0,0,1,False,False
+P003,ST_TOKYO,2026-06-01,2026-06-10,10.0,2,0,True,False
+P004,ST_NYC,2026-06-10,2026-06-16,10.0,0,0,False,False
+P005,ST_SYDNEY,2026-06-05,2026-06-09,5.0,2,0,True,False
+P006,ST_LISBON,2026-06-20,2026-06-24,5.0,1,0,False,False
+P007,ST_OSLO,2026-06-05,2026-06-10,5.0,0,6,False,True
+P008,ST_BERLIN,2026-06-25,2026-07-05,5.0,1,5,False,True
+P009,ST_LISBON,2026-06-12,2026-06-16,5.0,1,1,False,True
+P010,ST_NYC,2026-06-20,2026-06-24,5.0,1,1,False,True
+P011,ST_TOKYO,2026-06-20,2026-06-24,5.0,2,1,True,False
+P012,ST_SYDNEY,2026-06-20,2026-06-25,5.0,2,1,True,False
